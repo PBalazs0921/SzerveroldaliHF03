@@ -1,0 +1,6 @@
+@SzerveroldaliHF03_HostAddress = http://localhost:5024
+
+GET {{SzerveroldaliHF03_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
